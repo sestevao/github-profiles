@@ -1,1 +1,1 @@
-<img src="./github-profiles.png" alt="foto" />
+<img src="./Github Profiles.png" alt="foto" />
